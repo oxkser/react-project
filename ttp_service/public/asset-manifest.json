@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e54d882a.chunk.css",
+    "main.js": "./static/js/main.056b11fd.chunk.js",
+    "main.js.map": "./static/js/main.056b11fd.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.ad1f07ea.js",
+    "runtime-main.js.map": "./static/js/runtime-main.ad1f07ea.js.map",
+    "static/css/2.6f60e7f3.chunk.css": "./static/css/2.6f60e7f3.chunk.css",
+    "static/js/2.5d558713.chunk.js": "./static/js/2.5d558713.chunk.js",
+    "static/js/2.5d558713.chunk.js.map": "./static/js/2.5d558713.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.8c156cc663a6e185b2d7233079554cd2.js": "./precache-manifest.8c156cc663a6e185b2d7233079554cd2.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.6f60e7f3.chunk.css.map": "./static/css/2.6f60e7f3.chunk.css.map",
+    "static/css/main.e54d882a.chunk.css.map": "./static/css/main.e54d882a.chunk.css.map",
+    "static/media/TarBarS.css": "./static/media/movie.f08d5822.svg",
+    "static/media/HotShow.css": "./static/media/favicon.a56be2ff.ico"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad1f07ea.js",
+    "static/css/2.6f60e7f3.chunk.css",
+    "static/js/2.5d558713.chunk.js",
+    "static/css/main.e54d882a.chunk.css",
+    "static/js/main.056b11fd.chunk.js"
+  ]
+}

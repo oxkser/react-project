@@ -1,0 +1,26 @@
+.bgc-1{
+    width: 3rem;
+    height: 4rem;
+    background-repeat: no-repeat;
+    background-image: url(../imgs/movie.svg)
+}
+.bgc-2{
+    width: 3rem;
+    height: 4rem;
+    background-repeat: no-repeat;
+    background-image: url(../imgs/coupon.svg)
+}
+/* .am-list-extra{
+    color: red!important;
+    font-size: 12px!important;
+}
+.am-list-brief{
+    color: #888;
+    font-size: 13px !important;
+    line-height: 1.5;
+    margin-top: 6px;
+    width: auto;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+} */

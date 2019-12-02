@@ -1,0 +1,19 @@
+.list-view-section-body{
+    text-align: left;
+}
+.am-list-header{
+    display: none;
+}
+.am-list{
+    width: 100%;
+    height: auto;
+}
+.button-container{
+    position: absolute;
+    top: 25px;
+    right: 0;
+    width: 20%;
+}
+.am-button::before{
+    height: 10px;
+}

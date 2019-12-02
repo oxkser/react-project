@@ -1,0 +1,38 @@
+.space-carousel {
+    padding: 16px;
+    background: #DEF1E5;
+    overflow: hidden;
+  }
+  .play .am-list-extra{
+  font-size: 20px!important;
+  font-weight: bold;
+}
+.cinname{
+  position: absolute;
+  bottom: 2.4rem;
+  left: 6rem;
+  font-size: 15px;
+  color: #666;
+  overflow: hidden;
+  word-wrap: break-word;
+}
+.sort{
+  position: absolute;
+  bottom: 1rem;
+  left: 6rem;
+  font-size: 13px;
+  color: #666;
+}
+.datecontainer{
+  width: auto;
+  height: 3rem;
+  margin: 1rem 1rem;
+ background-color: white;
+}
+.datetitle{
+  font-size: 16px;
+  font-weight: bolder;
+}
+.date{
+  margin-top: 0.5rem;
+}
