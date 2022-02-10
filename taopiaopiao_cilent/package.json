@@ -35,7 +35,7 @@
     "history": "^4.10.1",
     "jquery": "^3.4.1",
     "lib-flexible": "^0.3.2",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "postcss-px2rem": "^0.3.0",
     "react-cookie": "^4.0.1",
     "react-cookies": "^0.1.1",
